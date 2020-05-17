@@ -1,1 +1,1 @@
-# myftrace
+# record the learning of ftrace of linux
